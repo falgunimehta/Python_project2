@@ -11,6 +11,8 @@ Jupyter Notebook
 
 VS Code
 
+What I learned:
+
 I learned difference between lists, tuples sets, dictionaries. 
 
 Using len(), pop(), 'in' 
